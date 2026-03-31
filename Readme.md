@@ -1,5 +1,5 @@
 # Hướng dẫn cấu hình dự án Image to text and translate
-## lưu ý: Chỉ dịch từ anh sang việt
+## lưu ý: Chỉ dịch từ anh sang việt, nếu muốn đổi sang ngôn ngữ khác cần phải thay đổi prompt ở file services.py
 
 ```python
 ai_service = AIService(
